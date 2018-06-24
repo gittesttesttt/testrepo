@@ -6,4 +6,4 @@ print('test2')
 
 print('test project1')
 
-print('hotfix in project1 for master')
+print('hotfix in project1 for master, merge here')
